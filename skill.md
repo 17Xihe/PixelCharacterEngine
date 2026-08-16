@@ -206,3 +206,36 @@ Before output verify:
 If any condition fails:
 
 Regenerate.
+
+# FINAL VALIDATION
+
+
+Before output check:
+
+
+BODY:
+
+□ Height unchanged
+
+□ Width unchanged
+
+□ Head ratio unchanged
+
+
+FACE:
+
+□ Eyes symmetrical
+
+□ Same eye color
+
+
+PIXEL:
+
+□ Every element is pixel block
+
+□ No smooth details
+
+
+If any rule fails:
+
+Regenerate.
