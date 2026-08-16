@@ -1,4 +1,19 @@
-Pixel Character Engine Skill v1.0
+Pixel Character Skill
+Core Rule
+本Skill生成固定尺寸像素角色。
+所有角色必须使用：
+skeleton/skeleton.md
+
++
+
+skeleton/skeleton_grid.png
+作为唯一身体模板。
+禁止重新设计身体。
+禁止根据照片改变：
+身高
+头身比例
+手脚比例
+脸大小Pixel Character Engine Skill v1.0
 AI像素风小人生成系统
 0. 核心目标（最高优先级）
 将用户上传的人物照片转换为：
