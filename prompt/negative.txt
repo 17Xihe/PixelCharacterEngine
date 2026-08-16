@@ -56,5 +56,11 @@ logo
 
 watermark
 
-
+extra fingers
+uneven fingers
+extra hands
+missing fingers
+realistic hands
+realistic arms
+wrong pose
 
