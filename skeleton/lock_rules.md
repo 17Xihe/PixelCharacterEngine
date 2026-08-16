@@ -1,12 +1,5 @@
-PixelCharacterEngine
+The body skeleton is fixed.
 
-├── skill.md
-├── config.md
+Appearance can change according to the photo.
 
-├── prompt
-│
-└── skeleton
-    ├── skeleton.md
-    ├── skeleton_map.md
-    ├── anatomy_rules.md
-    └── lock_rules.md
+Only body proportions are locked.
