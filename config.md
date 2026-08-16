@@ -291,3 +291,48 @@ config.md
 
 
 Follow all rules above.
+
+# PIXEL TOPOLOGY LOCK
+
+The character is a pixel sprite, not a realistic human.
+
+The skeleton topology is fixed.
+
+Never reconstruct realistic anatomy.
+
+
+## HAND RULE
+
+Hands are simplified pixel blocks.
+
+Each hand must contain:
+
+- maximum 2-3 pixels width
+- no individual fingers
+- no nails
+- no realistic hand shape
+
+
+Forbidden:
+
+- five fingers
+- separated fingers
+- realistic palm
+- detailed hand gesture
+
+
+Hands should be represented as:
+
+simple pixel mitten/block shape.
+
+
+Example:
+
+GOOD:
+██
+██
+
+BAD:
+☝
+🖐
+real fingers
