@@ -96,19 +96,3 @@ No text.
 
 No frame.
 
-HAND DESIGN:
-
-Hands must follow pixel sprite convention.
-
-Use simple 2-3 pixel blocks.
-
-Do not draw fingers.
-
-Do not draw realistic hands.
-
-The character should look like a game sprite,
-not a miniature human.
-
-No environment.
-
-No watermark.
