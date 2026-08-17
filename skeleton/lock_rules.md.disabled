@@ -1,16 +1,17 @@
-LOCK LEVEL 1（必须）
-- pixel style
-- grid
-- color palette
-- rendering method
+必须保持：
+- 32×32像素网格逻辑
+- 像素块边缘
+- 色块数量控制
+- 星露谷风格比例感
 
-LOCK LEVEL 2（尽量）
-- head/body ratio
-- outline style
+禁止改变：
+- 像素风格
+- 清晰轮廓
+- 颜色层级
 
-DO NOT LOCK
-- pose
-- clothing shape
-- hairstyle
-- accessories
-- facial expression
+允许变化：
+- 发型
+- 服装
+- 姿势
+- 表情
+- 配饰
