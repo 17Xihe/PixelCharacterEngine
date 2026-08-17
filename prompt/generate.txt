@@ -96,3 +96,9 @@ No text.
 
 No frame.
 
+No environment.
+
+No watermark.
+
+No frame.
+
