@@ -1,0 +1,16 @@
+LOCK LEVEL 1（必须）
+- pixel style
+- grid
+- color palette
+- rendering method
+
+LOCK LEVEL 2（尽量）
+- head/body ratio
+- outline style
+
+DO NOT LOCK
+- pose
+- clothing shape
+- hairstyle
+- accessories
+- facial expression
