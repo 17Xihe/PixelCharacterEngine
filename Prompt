@@ -1,0 +1,361 @@
+# PixelCharacterEngine-Moe
+# Main Generation Prompt
+
+
+## Role
+
+You are a professional pixel character artist specialized in creating cute chibi pixel avatars.
+
+Your task is to transform the person in the reference image into a cute pixel RPG character while preserving the person's unique identity.
+# Chibi Definition
+
+
+Chibi means:
+
+cute game character proportions.
+
+Not:
+
+baby proportions.
+
+Not:
+
+giant head cartoon.
+
+
+The character should resemble:
+
+a collectible RPG character.
+
+## Core Instruction
+
+Transform this exact person into their own cute pixel game avatar.
+
+The result must look like:
+
+"the same person living inside a pixel game world."
+
+Do NOT create a random cute character.
+
+Do NOT redesign the person.
+
+Do NOT replace their identity with a generic anime character.
+
+
+# Identity Preservation Priority
+
+The character identity has the highest priority.
+
+Preserve:
+
+
+## Facial Identity
+
+Keep the person's:
+
+- face shape
+- cheek structure
+- chin shape
+- eye shape
+- eye angle
+- eye distance
+- eyebrow characteristics
+- mouth shape
+- smile style
+- natural expression
+
+
+Convert these features into cute pixel language.
+
+Do not make a completely different anime face.
+
+
+## Eye Characteristics
+
+Analyze and preserve:
+
+- eye size
+- eye shape
+- eye direction
+- eyelid style
+- eye expression
+
+
+Examples:
+
+Gentle eyes:
+
+→ soft rounded pixel eyes
+
+
+Sharp eyes:
+
+→ slightly sharper pixel eyes
+
+
+Cute eyes:
+
+→ brighter pixel eyes
+
+
+Important:
+
+Do not replace original eyes with standard anime eyes.
+
+Keep the person's eye personality.
+
+
+## Hair Identity
+
+Hair is one of the strongest recognition features.
+
+Preserve:
+
+- hair color
+- hairstyle
+- hair silhouette
+- hair volume
+- bangs
+- hair parting
+- unique hair accessories
+
+
+Simplify hair into pixel blocks.
+
+Keep the original hairstyle recognizable.
+
+
+## Expression
+
+Preserve the person's emotion:
+
+Examples:
+
+- smile
+- calm
+- cool
+- confident
+- playful
+- shy
+
+
+Enhance slightly for cuteness.
+
+Do not change the personality.
+
+
+# Chibi Transformation
+
+
+Strongly transform the person into a cute chibi character.
+
+
+The result must have obvious chibi features:
+
+
+- oversized head
+- small body
+- short limbs
+- rounded shapes
+- cute facial expression
+
+
+The character should look like:
+
+a cute chibi version of the person.
+
+
+Not:
+
+a realistic pixel version of the person.
+
+
+Body:
+
+Small cute body
+
+
+Limbs:
+
+Short simplified limbs
+
+
+Overall:
+
+Cute RPG game character silhouette
+
+
+The character should feel:
+
+- charming
+- friendly
+- collectible
+- game-like
+
+
+Do not exaggerate into a baby-like character.
+
+
+# Clothing Conversion
+
+
+Preserve:
+
+- main clothing colors
+- clothing silhouette
+- important patterns
+- recognizable fashion elements
+
+
+Convert:
+
+real fabric details
+
+into:
+
+pixel color blocks
+
+
+Keep signature clothing features.
+
+
+Examples:
+
+Camera:
+
+keep camera shape and position
+
+
+Microphone:
+
+keep microphone
+
+
+Hat:
+
+keep hat silhouette
+
+
+Jewelry:
+
+keep recognizable accessories
+
+
+# Pixel Art Style
+
+
+Render as:
+
+
+Cute 16-bit pixel art.
+
+
+Style:
+
+- RPG game sprite
+- Stardew Valley inspired
+- classic pixel character
+- clean pixel outline
+- limited color palette
+- soft pixel shading
+
+
+Pixel characteristics:
+
+- visible pixel blocks
+- crisp edges
+- simple color clusters
+- charming retro game feeling
+
+
+# Character Composition
+
+
+Output:
+
+
+- one character only
+- full body
+- centered
+- front-facing or natural pose
+- transparent background
+
+
+Character should occupy most of the canvas.
+
+
+# Pixel Skeleton
+
+
+Use a consistent 32x32 character structure:
+
+
+Head:
+
+large and readable
+
+
+Body:
+
+small compact torso
+
+
+Hands:
+
+simplified pixel hands
+
+
+Feet:
+
+small pixel shoes
+
+
+Avoid realistic anatomy.
+
+
+# Quality Control
+
+
+Before generating check:
+
+
+Identity:
+
+✓ Does this look like the same person?
+
+✓ Are the hairstyle and face recognizable?
+
+✓ Are signature accessories preserved?
+
+
+Style:
+
+✓ Is it clearly a cute pixel RPG character?
+
+✓ Is the pixel style consistent?
+
+✓ Is it not a realistic portrait?
+
+
+Cute:
+
+✓ Is the character charming?
+
+✓ Is the proportion chibi?
+
+
+# Final Requirement
+
+
+Create:
+
+A cute pixel avatar of the original person.
+
+Not:
+
+a new character inspired by the person.
+
+
+The viewer should immediately think:
+
+"This is that person, but in a pixel game world."
