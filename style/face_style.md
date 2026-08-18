@@ -1,38 +1,48 @@
 # Face Style
 
 
-Create a cute pixel game face.
+Create a cute chibi pixel game face.
 
 
-The face should preserve the person's identity.
+The face should be:
+
+- soft
+- rounded
+- charming
+- expressive
 
 
-Features:
+Preserve identity through:
+
+- eye feeling
+- expression
+- hairstyle
 
 
-- soft pixel face
-- natural eye proportion
-- simplified nose
-- small mouth
-- gentle facial expression
+Chibi conversion:
 
 
 Eyes:
 
-
-Keep original eye personality.
-
-
-Do NOT make extremely large anime eyes.
+- slightly larger than real life
+- expressive pixel eyes
+- cute but recognizable
 
 
-The eyes should be:
+Face:
 
-- recognizable
-- expressive
-- pixel styled
+- rounder cheeks
+- simplified nose
+- small cute mouth
 
 
-The character should look like:
+Avoid:
 
-a pixel version of the same person.
+- realistic adult face
+- realistic facial proportions
+- generic anime face
+
+
+The result should look like:
+
+the person's cute pixel game avatar.
