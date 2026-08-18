@@ -1,7 +1,7 @@
 # Character Proportion
 
 
-The character should look like a classic RPG pixel sprite.
+The character should look like a cute collectible RPG character.
 
 
 Body ratio:
@@ -9,33 +9,38 @@ Body ratio:
 
 Head:
 
-32%
+36%
 
 
 Body:
 
-43%
+44%
 
 
 Legs:
 
-25%
+20%
 
 
 
 Characteristics:
 
 
-- slightly large head
-- cute proportions
-- compact body
-- short but natural limbs
-- balanced game character silhouette
+- slightly oversized head
+- small cute body
+- short legs
+- tiny hands and feet
+- rounded silhouette
+
+
+The character should feel like:
+
+a cute game avatar,
+not a realistic miniature human.
 
 
 Avoid:
 
-- giant head
-- mascot style
-- baby proportion
-- oversized anime head
+- realistic human proportions
+- long legs
+- tall body
