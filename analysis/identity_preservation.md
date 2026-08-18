@@ -1,20 +1,42 @@
 # Identity Preservation
 
 
-The pixel character must preserve the person's identity.
+Preserve the person's recognizable characteristics.
 
 
-Priority order:
+Identity should NOT mean realistic reproduction.
 
-1. Facial identity
-2. Hairstyle identity
-3. Signature accessories
+
+Keep:
+
+
+1. Hairstyle silhouette
+
+2. Eye personality
+
+3. Expression
+
 4. Clothing identity
-5. Pixel style
+
+5. Signature accessories
 
 
-Do not redesign the person.
+Allow:
 
 
-Convert the person into pixel style,
-not create a new character.
+- chibi face redesign
+- cute proportion adjustment
+- simplified facial structure
+
+
+Goal:
+
+
+The viewer should recognize:
+
+"this is the same person"
+
+
+but the character should still look like:
+
+"a cute RPG character."
