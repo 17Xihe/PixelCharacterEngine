@@ -103,3 +103,5 @@ Only generate:
 - full body
 - centered
 - transparent background
+
+  Use style/chibi_style.md as the main visual style reference.
